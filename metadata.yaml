@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '52558'
     url: http://www.gutenberg.org/2009/agents/52558
     wikipedia: https://de.wikipedia.org/wiki/Rudolf_Sievers_(K%C3%BCnstler)
+covers:
+- cover_type: archival
+  image_path: 63690-h/images/cover.jpg
 creator:
   author:
     agent_name: Reuter, Gabriele
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gabriele_Reuter
     - https://de.wikipedia.org/wiki/Gabriele_Reuter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63690#Was-Helmut-in-Deutschland-erlebte-Eine-Jugendgeschichte
 gutenberg_issued: '2020-11-09'
 gutenberg_type: Text
 identifiers:
