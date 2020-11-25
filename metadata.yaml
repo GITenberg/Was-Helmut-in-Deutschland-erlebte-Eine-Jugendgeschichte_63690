@@ -1,0 +1,35 @@
+_repo: Was-Helmut-in-Deutschland-erlebte-Eine-Jugendgeschichte_63690
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sievers, Rudolf
+    birthdate: 1884
+    deathdate: 1918
+    gutenberg_agent_id: '52558'
+    url: http://www.gutenberg.org/2009/agents/52558
+    wikipedia: https://de.wikipedia.org/wiki/Rudolf_Sievers_(K%C3%BCnstler)
+creator:
+  author:
+    agent_name: Reuter, Gabriele
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '33040'
+    url: http://www.gutenberg.org/2009/agents/33040
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gabriele_Reuter
+    - https://de.wikipedia.org/wiki/Gabriele_Reuter
+description: ''
+gutenberg_issued: '2020-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63690'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Germany -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Was Helmut in Deutschland erlebte: Eine Jugendgeschichte'
+url: http://www.gutenberg.org/ebooks/63690
